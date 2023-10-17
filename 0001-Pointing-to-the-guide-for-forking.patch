@@ -1,0 +1,22 @@
+From d0dd1f61b33d64e29d8bc1372a94ef6a2fee76a9 Mon Sep 17 00:00:00 2001
+From: The Octocat <octocat@nowhere.com>
+Date: Wed, 12 Feb 2014 15:20:44 -0800
+Subject: [PATCH] Pointing to the guide for forking
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 0350da3..f479026 100644
+--- a/README.md
++++ b/README.md
+@@ -6,4 +6,4 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks
+ 
+ After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+ 
+-For some more information on how to fork a repository, [check out our guide, "Fork a Repo"](https://help.github.com/articles/fork-a-repo). Thanks! :sparkling_heart:
++For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+-- 
+2.41.0.windows.3
+
